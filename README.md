@@ -6,4 +6,4 @@
     
         The system allows users to add, update, delete, and search items within inventory records, maintaining clear visibility into stock levels and product details.
 
-        Authors:  Christopher Lyons; Souleymane Abdoul Karimou; Ibrahim Abdulai
+                Authors:  Christopher Lyons; Souleymane Abdoul Karimou; Ibrahim Abdulai
