@@ -1,2 +1,4 @@
 # G2-Project-Inventory-Management-System
-A Java-based desktop application designed to help businesses manage product inventory efficiently.
+"Shelf Control"
+    A Java-based desktop application designed to help businesses manage product inventory efficiently.
+        The system allows users to add, update, delete, and search items within inventory records, maintaining clear visibility into stock levels and product details.
